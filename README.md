@@ -16,7 +16,8 @@ Agricultural productivity assessment is crucial for farm management and resource
 
 ## Dataset
 
-The dataset consists of:
+The dataset is available from the VNB FOML 2024 Hackathon competition on Kaggle:
+- **Source**: [VNB FOML 2024 Hackathon - Kaggle](https://www.kaggle.com/competitions/vnb-foml-2024-hackathon)
 - **Training data** (`train.csv`): Contains labeled examples with known performance categories for supervised learning
 - **Testing data** (`test.csv`): Used for generating predictions on unlabeled data
 
